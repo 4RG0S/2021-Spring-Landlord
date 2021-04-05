@@ -29,3 +29,24 @@
 * 모의해킹
 
   각자 만들어 본 프로그램에 대해 공격을 시도해봅니다. 취약점이 발견되었다면 서로 토의해보며 직접 고쳐봅시다.
+  
+## 학습하기 좋은 사이트들!
+* [생활코딩 PHP](https://opentutorials.org/index.php/course/62)
+  
+  영어가 두렵다면 생활코딩에서 무료로 제공하는 HTML/PHP 강의를 들어보세요.
+  
+* [W3Schools](https://www.w3schools.com/)
+  
+  여러가지 예제 데모와 함께 상당히 많은 양의 웹 레퍼런스 자료를 제공합니다.
+  
+* [PHP](https://php.net)
+
+  PHP 공식 사이트입니다. PHP 레퍼런스를 제공합니다.
+  
+* [TutorialsPoint](https://www.tutorialspoint.com/php/index.htm)
+
+  PHP 튜토리얼을 제공하는 사이트입니다.
+  
+* [Regex101](https://regex101.com)
+
+  정규표현식을 테스트해 볼 수 있는 사이트입니다.
