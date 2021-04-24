@@ -5,7 +5,7 @@
         <title>Calculator</title>
     </head>
     <body>
-    <form action="index.php" method="post">
+    <form action="calculator.php" method="post">
         <input type="number" name="a">
         <select name="operator" id="operator">
             <option value="plus">+</option>
