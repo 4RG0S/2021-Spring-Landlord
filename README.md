@@ -12,7 +12,7 @@
 0|JetBrains 학생 계정 활성화하기|PHPStorm 설치 후 정품인증하기|[PDF](https://github.com/0x00000FF/argos-landlord/blob/main/week0/week0.pdf)
 1|HTTP의 기본 동작, PHP 기초|Hello, Landlord!|[PDF](https://github.com/0x00000FF/argos-landlord/blob/main/week1/week1.pdf)|[녹화](https://youtu.be/SHD4IgTQqUo)
 2|Form과 Method, 헤더|간단 계산기 구현|[PDF](https://github.com/0x00000FF/argos-landlord/blob/main/week2/week2.pdf)|[녹화](https://youtu.be/ljDfdmf6pjE)
-3|쿠키, 세션|로그인 구현|[PDF](https://github.com/0x00000FF/argos-landlord/blob/main/week3/week3.pdf)
+3|쿠키, 세션|로그인 구현|[PDF](https://github.com/0x00000FF/argos-landlord/blob/main/week3/week3.pdf)|[녹화](https://youtu.be/1eFNt5z2GVs)
 4|DBMS와 SQL|유저 스키마
 5|SQL Injection과 Prepared Statement|로그인(DB사용)
 6|게시판과 CRUD 설계하기|게시판 스키마
