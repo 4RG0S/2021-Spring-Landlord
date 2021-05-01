@@ -4,10 +4,10 @@
     
     <br />
 
-    <input type="radio" name="operator" value="+" />
-    <input type="radio" name="operator" value="-" />
-    <input type="radio" name="operator" value="*" />
-    <input type="radio" name="operator" value="/" />
+    <input type="radio" name="operator" value="+" /> +
+    <input type="radio" name="operator" value="-" /> - 
+    <input type="radio" name="operator" value="*" /> * 
+    <input type="radio" name="operator" value="/" /> /
 
     <br />
 
