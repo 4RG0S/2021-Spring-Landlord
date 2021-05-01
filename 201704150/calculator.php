@@ -1,4 +1,4 @@
-<form action="calculator_proc.php">
+<form action="calculator_proc.php" method="post">
     <input type="text" name="a" />
     <input type="text" name="b" />
     
