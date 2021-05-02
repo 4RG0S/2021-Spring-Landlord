@@ -19,7 +19,7 @@
         cookieCount();
         cookiePrint();
     } else {
-        echo "<script>alert(\"It's need login!\");</script>";
+        echo "<script>alert(\"Login is required!\");</script>";
     }
 
 ?>
