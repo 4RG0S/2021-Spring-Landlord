@@ -8,7 +8,7 @@
         $pw = $_POST['student_pw'];
         $db = "db_" . $_POST['student_no'];
 
-        $dsn = "mysql:host=$host,dbname=$dbname;charset=utf8";
+        $dsn = "mysql:host=$host;dbname=$dbname;charset=utf8";
 
         try {
             $conn = new PDO($dsn, $id, $pw, [
