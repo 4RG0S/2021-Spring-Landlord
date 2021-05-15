@@ -4,12 +4,14 @@
 
     if ($username && preg_match("/[0-9]{9}/", $username)) {
         $host = 'localhost';
-        $id = $_POST['student_no'];
-        $pw = $_POST['student_pw'];
-        $db = "db_" . $_POST['student_no'];
+        $id = $username;
+        $pw = $password;
+        $db = "db_$username";
 
         $dsn = "mysql:host=$host;dbname=$dbname;charset=utf8";
 
+        echo $username . ":";
+        
         try {
             $conn = new PDO($dsn, $id, $pw, [
                 PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
