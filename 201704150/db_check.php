@@ -18,6 +18,7 @@
             echo "연결 성공!<br />";
         } catch (Exception $e) {
             echo "연결 실패...<br />";
+            echo "오류: " . $e->getMessage() . "<br />";
         }
     }
 ?>
