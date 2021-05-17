@@ -10,6 +10,6 @@ if(!isset($_SESSION['user'])){?>
 else{
     echo $_SESSION['user'],"님 안녕하세요"; ?>
     <form action = 'logout.php' method = 'POST'>
-        <input type = 'submit' value = '로그아웃'
+        <input type = 'submit' value = '로그아웃'>
 <?}?>
 
